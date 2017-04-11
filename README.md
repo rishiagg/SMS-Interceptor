@@ -1,9 +1,4 @@
-SpySMS
-=============
-
-Applications to intercept and divert SMS messages to Android mobile devices.
-
-Developed By
+Modified By
 ============
 
 * Rishi Aggarwal - <er.rishi.aggarwal@gmail.com>
